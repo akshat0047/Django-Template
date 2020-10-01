@@ -1,8 +1,8 @@
-# Django Template
+# Django Template Project
 
 This template is for use to kick in fast into a Django Project.
 
-## Getting Started
+## Getting Started with Django Template Project
 
 ---
 
